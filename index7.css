@@ -1,0 +1,37 @@
+.bgimg{
+    background-image: url("https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2823%2Ftrend20200504161425.jpg");
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-size: cover;
+
+}
+.tiffinstitle{
+    color:black;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 25px;
+}
+.layoutcard{
+    background-color: white;
+    border-radius: 8px;
+    padding:18px;
+    margin:15px;
+}
+.Tiffins{
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.abouttiffin{
+    color: #E07C24;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.branding{
+    width: 100px;
+    height:100px;
+}

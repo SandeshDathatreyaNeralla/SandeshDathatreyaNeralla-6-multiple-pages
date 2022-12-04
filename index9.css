@@ -1,0 +1,35 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/beatiful-geometric-composition-with-blue-purple-paperboard-with-copyspace_24972-351.jpg?size=626&ext=jpg&ga=GA1.2.1181611881.1668490059");
+    background-size: cover;
+    height:200vh;
+}
+.headfirst{
+    color:black;
+    font-family: cursive;
+    font-size:35px;
+    font-weight: 600;
+    padding:1%;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:25px;
+}
+.cardcon{
+    padding:20px;
+}
+.headsecond{
+    color:navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    font-weight: bold;
+}
+.paraline{
+    color:#6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.carousel-item active{
+    background-size: cover;
+}
